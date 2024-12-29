@@ -1,0 +1,46 @@
+2024-12-26 18:45:53.864  INFO 14012 --- [restartedMain] com.abc.sams.api.SamsTrackApplication    : Starting SamsTrackApplication using Java 20.0.1 on abhijeet with PID 14012 (E:\AllSpringInitillizerFiles\SamsTrackApplication\target\classes started by poojavetal in E:\AllSpringInitillizerFiles\SamsTrackApplication)
+2024-12-26 18:45:53.872  INFO 14012 --- [restartedMain] com.abc.sams.api.SamsTrackApplication    : No active profile set, falling back to default profiles: default
+2024-12-26 18:45:54.071  INFO 14012 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-12-26 18:45:54.072  INFO 14012 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-12-26 18:46:00.619  INFO 14012 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-12-26 18:46:00.691  INFO 14012 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 45 ms. Found 0 JPA repository interfaces.
+2024-12-26 18:46:09.520  INFO 14012 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8091 (http)
+2024-12-26 18:46:09.814  INFO 14012 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-26 18:46:09.817  INFO 14012 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.54]
+2024-12-26 18:46:10.394  INFO 14012 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-26 18:46:10.398  INFO 14012 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 16314 ms
+2024-12-26 18:46:12.383  INFO 14012 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-12-26 18:46:13.108  INFO 14012 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2024-12-26 18:46:14.761  INFO 14012 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-12-26 18:46:15.859  INFO 14012 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-12-26 18:46:27.537  INFO 14012 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-12-26 18:46:28.463  INFO 14012 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-12-26 21:20:08.699  INFO 6252 --- [restartedMain] com.abc.sams.api.SamsTrackApplication    : Starting SamsTrackApplication using Java 20.0.1 on abhijeet with PID 6252 (E:\AllSpringInitillizerFiles\SamsTrackApplication\target\classes started by poojavetal in E:\AllSpringInitillizerFiles\SamsTrackApplication)
+2024-12-26 21:20:08.767  INFO 6252 --- [restartedMain] com.abc.sams.api.SamsTrackApplication    : No active profile set, falling back to default profiles: default
+2024-12-26 21:20:08.883  INFO 6252 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-12-26 21:20:08.884  INFO 6252 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-12-26 21:20:14.710  INFO 6252 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-12-26 21:20:14.823  INFO 6252 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 39 ms. Found 0 JPA repository interfaces.
+2024-12-26 21:20:35.285  INFO 6252 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8091 (http)
+2024-12-26 21:20:36.123  INFO 6252 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-12-26 21:20:36.126  INFO 6252 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.54]
+2024-12-26 21:20:40.736  INFO 6252 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-12-26 21:20:40.737  INFO 6252 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 31852 ms
+2024-12-26 21:20:43.155  INFO 6252 --- [restartedMain] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-12-26 21:20:43.857  INFO 6252 --- [restartedMain] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2024-12-26 21:20:45.101  INFO 6252 --- [restartedMain] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-12-26 21:20:45.997  INFO 6252 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2024-12-26 21:20:52.291  INFO 6252 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2024-12-26 21:20:52.876  INFO 6252 --- [restartedMain] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-12-26 21:21:13.696  INFO 6252 --- [restartedMain] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-12-26 21:21:13.970  INFO 6252 --- [restartedMain] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-12-26 21:21:14.451  WARN 6252 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-12-26 21:21:15.954  INFO 6252 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2024-12-26 21:21:16.715  INFO 6252 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8091 (http) with context path ''
+2024-12-26 21:21:16.799  INFO 6252 --- [restartedMain] com.abc.sams.api.SamsTrackApplication    : Started SamsTrackApplication in 69.061 seconds (JVM running for 70.814)
+2024-12-26 21:27:04.434  INFO 6252 --- [http-nio-8091-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-12-26 21:27:04.436  INFO 6252 --- [http-nio-8091-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-12-26 21:27:04.452  INFO 6252 --- [http-nio-8091-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 15 ms
+2024-12-26 21:34:45.752  WARN 6252 --- [http-nio-8091-exec-8] org.hibernate.orm.deprecation            : HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2024-12-26 21:35:05.863  WARN 6252 --- [http-nio-8091-exec-4] org.hibernate.orm.deprecation            : HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
+2024-12-26 21:37:38.444  WARN 6252 --- [http-nio-8091-exec-8] org.hibernate.orm.deprecation            : HHH90000022: Hibernate's legacy org.hibernate.Criteria API is deprecated; use the JPA javax.persistence.criteria.CriteriaQuery instead
